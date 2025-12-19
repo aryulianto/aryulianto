@@ -7,6 +7,6 @@
 - 🤝🏻 Looking to collaborate on open infrastructure and cloud-native technologies
 - 💬 Ask me about cloud infrastructure, h/w, sys/net administration
 - 🏕️ Love hitting the trails and taking a dip on the weekends!
-- 📫 You can reach me at saputro@aryulianto.com 
+- 📫 You can reach me at ary[at]openinfra.id
 
 #### More on: https://aryulianto.com
